@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Math magicians] <a name="about-project"></a>
 
-> "Math magicians" is a website for all fans of mathematics. 
+ "Math magicians" is a website for all fans of mathematics. 
 
 **[Math magicians]** is a Single Page App (SPA)
 
@@ -70,7 +70,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -91,8 +90,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Make simple calculations.]**
 - **[Read a random math-related quote.]**
 
@@ -101,8 +98,6 @@ After you're finished please remove all the comments and instructions!
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Link will be uploaded soon
 
 - [Live Demo Link](https://google.com)
 
