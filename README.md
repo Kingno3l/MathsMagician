@@ -17,7 +17,7 @@
 
 ## Getting Started
 
-1. Open [this branch](https://github.com/Kingno3l)
+1. Open [this branch](https://github.com/Kingno3l) from browser
 2. Open VSCode or terminal and navigate to the folder where you would like to clone the project.
 3. Type "pwd" to see your working directory.
 4. [clone repository](https://github.com/Kingno3l/Math-Magicians.git)
