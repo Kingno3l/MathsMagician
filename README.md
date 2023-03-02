@@ -29,7 +29,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖 \[Math magicians\] ](#-math-magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -141,4 +141,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Kingno3l/Math-Magicians/blob/main/LICENSE) licensed..
+This project is [MIT](https://github.com/Kingno3l/Math-Magicians/blob/main/LICENSE) licensed...
